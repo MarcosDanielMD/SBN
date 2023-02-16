@@ -1,0 +1,175 @@
+body
+{
+    background-color:rgb(17, 16, 16) ;
+}
+
+.Titulo
+{
+    margin: auto;
+    color: white;
+    box-sizing:content-box;
+    text-align: center;
+    position: absolute;
+    padding:0% 50%;
+    font-size: 30px;
+    top: 35%;
+    font-family: 'Josefin Sans', sans-serif;
+    z-index: 2;
+}
+
+img
+{
+ width: 100% ;   
+}
+
+.limg
+{
+    width: 20%;
+    position: absolute;
+    top: 25%;
+    left: 20%;
+}
+
+.txt
+{
+    color: white;
+    font-family: 'Josefin Sans', sans-serif;
+    position: absolute;
+    top: 63%;
+    left: 57%;
+    
+}
+.clipe
+{
+   width: 20%;
+}
+
+
+.forma
+{
+    background: rgb(181, 204, 231);
+    width: 99%;
+    height: 80%;
+    z-index: 3;
+    position: absolute;
+    top: 560px;
+
+}
+
+.titulo
+{
+    color: white;
+    position: absolute;
+    z-index: 5;
+    position: absolute;
+    top: 95%;
+    left: 15px;
+    z-index: 5;
+    font-family: 'Josefin Sans', sans-serif;
+    font-size: 2rem;
+    
+}
+
+.txtinicial
+{
+    position: absolute;
+    top: 100%;
+    left: 15px;
+    color: rgb(0, 0, 0);
+    z-index: 5;
+    font-family: 'Josefin Sans', sans-serif;
+    font-size: 1.2rem;
+    word-wrap: break-word;
+    width: 80%;
+    text-align: justify;
+}
+
+.titulo2
+{
+    color: white;
+    position: absolute;
+    z-index: 5;
+    position: absolute;
+    top: 145%;
+    left: 10px;
+    color: rgb(255, 255, 255);
+    z-index: 5;
+    font-family: 'Josefin Sans', sans-serif;
+    font-size: 2rem
+}
+
+.marcos
+{
+    position: absolute;
+    top: 120%;
+    left: 15%;
+    color: rgb(255, 255, 255);
+    z-index: 5;
+    font-family: 'Josefin Sans', sans-serif;
+    font-size: 1.4rem
+}
+
+.motivMD
+{
+    position: absolute;
+    left: 2%;
+    z-index: 3;
+    color: rgb(0, 0, 0);
+    top: 130%;
+    word-wrap: break-word;
+    width: 40%;
+    font-size: 1.2rem;
+    text-align: center;
+}
+
+.alexia
+{
+    position: absolute;
+    top: 120%;
+    left: 75%;
+    color: rgb(255, 255, 255);
+    z-index: 5;
+    font-family: 'Josefin Sans', sans-serif;
+    font-size: 1.4rem;
+}
+
+.motivAL
+{
+    position: absolute;
+    right: 2%;
+    z-index: 3;
+    color: rgb(0, 0, 0);
+    top: 130%;
+    word-wrap: break-word;
+    width: 40%;
+    font-size: 1.2rem;
+    text-align: center;
+}
+
+.motivimgMD
+{
+    position: absolute;
+    z-index: 3;
+    top: 180%;
+    left: 14%;
+    width: 15%;
+}
+
+.motivimgAL
+{
+    position: absolute;
+    z-index: 3;
+    top: 180%;
+    left: 70%;
+    width: 15%;
+}
+
+.bg2
+{
+    background: rgb(103, 127, 155);
+    width: 99%;
+    height: 80%;
+    z-index: 1;
+    position: absolute;
+    top: 161%;
+}

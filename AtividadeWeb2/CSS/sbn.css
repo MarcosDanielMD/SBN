@@ -1,0 +1,209 @@
+body
+{
+    background-color:rgb(78, 77, 77) ;
+}
+
+.sbn
+{
+    color: white;
+    position: absolute;
+    top: 30%;
+    font-size: 65px;
+    left: 20%;
+    z-index: 2;
+}
+
+.foto_feliz
+{
+    opacity: 20;
+    z-index: 1;
+    user-select:none
+    
+}
+
+img
+{
+    width: 100%;
+}
+
+.texto_apresentacao
+{
+z-index: 2;
+position: absolute;
+top: 50%;
+left: 14%;
+font-size: 20px;
+color: white;
+user-select:none
+}
+
+.mscBEY
+{
+    position: absolute;
+    top: 54%;
+    right: 20%;
+    color: white;
+    font-family: 'Josefin Sans', sans-serif;
+    opacity: 40%;
+}
+
+.btn
+{
+width: 15%;
+height: 8%;
+border-radius: 5%;
+background: rgb(255, 255, 255);
+position: absolute;
+top: 65%;
+left: 22%;
+}
+
+.solidoMD
+{
+width: 99%;
+height: 70%;
+background: rgb(255, 255, 255);
+position: absolute;
+}
+
+.titulomd
+{
+    z-index: 2;
+    position: absolute;
+    left: 5%;
+    padding-top: 20px;
+    font-size: 20px;
+    font-weight: bold;
+    font-family: 'Ubuntu', sans-serif;
+}
+
+.txtMD
+{
+    position: absolute;
+    padding-top: 50px;
+    left: 2%;
+    word-wrap: break-word;
+    width: 60%;
+    text-align: justify;
+}
+
+.imgMD
+{
+    position: absolute;
+    z-index: 2;
+    width: 22%;
+    right: 5%;
+    padding-top: 30px;
+    user-select:none
+  
+}
+
+p
+{
+    font-family: 'Ubuntu', sans-serif;
+    font-size: 1.2rem;
+    z-index: 3;
+}
+
+
+.solidoAL
+{
+width: 99%;
+height: 70%;
+background: rgb(241, 234, 222);
+position: absolute;
+top: 186%;
+}
+
+.tituloAL
+{
+    position: absolute;
+    left: 5%;
+    top: 190%;
+    font-size: 20px;
+    font-weight: bold;
+    font-family: 'Ubuntu', sans-serif;   
+}
+
+.imgAL
+{
+    position: absolute;
+    z-index: 2;
+    width: 22%;
+    top: 200%;
+    left: 5%;
+}
+
+.txtAL
+{
+    width: 65%;
+    z-index: 2;
+    position: absolute;
+    left: 30%;
+    top: 195%;
+    font-size: 20px;
+    font-family: 'Ubuntu', sans-serif;
+
+}
+
+
+.txtAp
+{
+    position: absolute;
+    z-index: 2;
+    top: 270%;
+    left: 30%;
+    font-size: 1.7rem;
+    color: white;
+    font-family:'Rubik', sans-serif;
+}
+
+.solidoAP
+{
+    width: 99%;
+    height: 70%;
+    background: rgb(83, 81, 81);
+    position: absolute;
+    top: 256%;
+}
+
+.imgHP
+{
+    position: absolute;
+    z-index: 3;
+    top: 300%;
+    width: 10%;
+    left: 10%;
+}
+
+.cf
+{
+    position: absolute;
+    z-index: 3;
+    top: 296%;
+    left: 25%;
+}
+
+.claquete
+{
+    position: absolute;
+    top: 300%;
+    width: 10%;
+    left: 45%;
+}
+
+.disco
+{
+    position: absolute;
+    top: 300%;
+    width: 10%;
+    left: 60%;
+}
+
+.pc
+{
+    position: absolute;
+    top: 300%;
+    left: 75%;
+    width: 10%;
+}

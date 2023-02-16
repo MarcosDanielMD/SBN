@@ -1,0 +1,219 @@
+body
+{
+    background-color:rgb(17, 16, 16) ;
+}
+
+.Titulo
+{
+    margin: auto;
+    color: white;
+    box-sizing:content-box;
+    text-align: center;
+    position: absolute;
+    left: 52%;
+    font-size: 30px;
+    top: 40%;
+    font-family: 'Josefin Sans', sans-serif;
+    z-index: 2;
+    word-wrap: break-word;
+    width: 20%;
+}
+
+img
+{
+ width: 100% ;   
+}
+
+.limg
+{
+    width: 20%;
+    position: absolute;
+    top: 25%;
+    left: 30%;
+}
+
+.forma
+{
+    background: rgb(157, 129, 184);
+    width: 99%;
+    height: 150%;
+    z-index: 3;
+    position: absolute;
+    top: 560px;
+
+}
+
+.txtinicial
+{
+    position: absolute;
+    top: 90%;
+    left: 15px;
+    color: rgb(0, 0, 0);
+    z-index: 5;
+    font-family: 'Josefin Sans', sans-serif;
+    font-size: 1.5rem;
+    word-wrap: break-word;
+    width: 80%;
+    text-align: justify;
+}
+
+.motivMD
+{
+    position: absolute;
+    left: 2%;
+    z-index: 3;
+    color: rgb(0, 0, 0);
+    top: 130%;
+    word-wrap: break-word;
+    width: 40%;
+    font-size: 1.2rem;
+    text-align: center;
+}
+
+.nmMD
+{
+    position: absolute;
+    top: 120%;
+    left: 15%;
+    color: rgb(255, 255, 255);
+    z-index: 5;
+    font-family: 'Josefin Sans', sans-serif;
+    font-size: 1.4rem
+}
+
+.nmAL
+{
+    position: absolute;
+    top: 120%;
+    left: 18%;
+    color: rgb(255, 255, 255);
+    z-index: 5;
+    font-family: 'Josefin Sans', sans-serif;
+    font-size: 1.4rem
+}
+
+.alexia
+{
+    position: absolute;
+    top: 120%;
+    left: 75%;
+    color: rgb(255, 255, 255);
+    z-index: 5;
+    font-family: 'Josefin Sans', sans-serif;
+    font-size: 1.4rem;
+}
+
+.motivAL
+{
+    position: absolute;
+    right: 2%;
+    z-index: 3;
+    color: rgb(0, 0, 0);
+    top: 130%;
+    word-wrap: break-word;
+    width: 40%;
+    font-size: 1.2rem;
+    text-align: center;
+}
+
+.txte
+{
+    position: absolute;
+    top: 190%;
+    left: 15px;
+    color: rgb(0, 0, 0);
+    z-index: 5;
+    font-family: 'Josefin Sans', sans-serif;
+    font-size: 1.5rem;
+    word-wrap: break-word;
+    width: 80%;
+    text-align: justify;
+}
+
+
+.ftMD
+{
+    position: absolute;
+    width: 24%;
+    z-index: 5;
+    top: 100%;
+    right: 5%;
+}
+
+.containerIMG
+{
+    position: absolute;
+    z-index: 5;
+    width: 15%;
+    top: 200%;
+    left: 5%
+}
+
+.forma2
+{
+    background: rgb(213, 232, 240);
+    width: 99%;
+    height: 180%;
+    z-index: 3;
+    position: absolute;
+    top: 180%;
+
+}
+
+.sm
+{
+    position: absolute;
+    left: 25%;
+    top: 210%;
+    font-size: 2rem;
+    z-index: 5;
+    color: black;
+    font-family: Rubik;
+
+}
+.ag
+{
+    position: absolute;
+    left: 25%;
+    top: 240%;
+    font-size: 2rem;
+    z-index: 5;
+    color: black; 
+    font-family: Rubik;
+}
+.vg
+{
+    position: absolute;
+    left: 25%;
+    top: 272%;
+    font-size: 2rem;
+    z-index: 5;
+    color: black;
+    font-family: Rubik;
+}
+
+.pn
+{
+    position: absolute;
+    left: 25%;
+    top: 303%;
+    font-size: 2rem;
+    z-index: 5;
+    color: black;
+    font-family: Rubik;
+}
+.eg
+{
+    position: absolute;
+    left: 25%;
+    top: 333%;
+    font-size: 2rem;
+    z-index: 5;
+    color: rgb(0, 0, 0);
+    font-family: Rubik;
+}
+p
+{
+font-size: 1.2rem;
+color: rgb(155, 153, 153);
+}
